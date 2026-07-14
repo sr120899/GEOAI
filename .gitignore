@@ -23,3 +23,12 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Course material (copyrighted PDFs, not for public redistribution)
+GISTDA GeoAI & Vibe Coding - Material-20260713T064051Z-2-001/
+
+# Large rasters (exceed GitHub's 100MB file limit)
+*.tif
+*.tif.ovr
+*.tif.aux.xml
+*.tfw
